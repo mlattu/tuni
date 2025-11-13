@@ -5,3 +5,4 @@ def main() -> None:
 
 main()
 print("Hello from feature")
+print("Hello from release")
