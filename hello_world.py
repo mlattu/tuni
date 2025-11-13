@@ -4,3 +4,4 @@ def main() -> None:
 	return None
 
 main()
+print("Hello from feature")
