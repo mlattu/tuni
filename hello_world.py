@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 def main() -> None:
-	print("Hello World!")
+	print("Hello world!")
 	return None
 
 main()
